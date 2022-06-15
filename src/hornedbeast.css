@@ -1,0 +1,41 @@
+article {
+  border: 1px solid gray;
+  padding: 1vw;
+  margin-bottom: 1vw;
+  width: 16%;
+  float: left;
+}
+article img {
+  width: 100%;
+  border: 40%;
+}
+article p {
+  font-size: 11px;
+  margin: auto;
+  display: inline-block;
+  margin-bottom: .5rem;
+}
+article p:last-of-type {
+  padding-left: 1rem;
+  cursor: pointer;
+}
+article p:last-of-type:hover {
+  color: rgb(12, 37, 152);
+}
+.article-button {
+  margin: .2rem .1vw;
+}
+
+main {
+  background-color: blanchedalmond;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+footer {
+  background-color: darkslategrey;
+}
+header {
+  background-color: darkslategrey;
+  text-align: center;
+}
