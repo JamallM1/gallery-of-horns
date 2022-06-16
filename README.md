@@ -1,12 +1,12 @@
 # Gallery of Horns #
 
-## Lab 02 ##
+## Lab 03 ##
 
 ### Number of names and features ###
-- Display images and voting functions 
+- Displaying images and descriptions in the modal tag 
 ### Start time ###
-- 1320
+- 1300
 ### Finish time ###
-- 1851
+- 1830
 ### time needed to complete ###
-- 4.5 hours
+- 6.5 hours
