@@ -2,6 +2,7 @@ import React from 'react';
 //import (Button) from 'react';
 import './hornedbeast.css';
 <a class="btn btn-primary" href="#" role="button">Link</a>
+
 class HornedBeast extends React.Component {
   constructor(props) {
     super(props)
